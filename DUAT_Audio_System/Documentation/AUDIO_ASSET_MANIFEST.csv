@@ -1,0 +1,12 @@
+Folder,Purpose,Audio format suggestion
+Audio/Music,Menu exploration combat boss safe-zone tracks,WAV or OGG
+Audio/SFX/Player,Player footsteps combat damage death,WAV
+Audio/SFX/Enemies,Enemy idle alert attacks hit death,WAV
+Audio/SFX/Environment,Fire water wind traps mechanisms,WAV
+Audio/SFX/Interactions,Doors objects puzzles,WAV
+Audio/Ambient,Looping temple cave underworld layers,WAV or OGG
+SoundClasses,Unreal Sound Class assets,Create in Unreal Editor 5.8
+SoundMixes,Unreal Sound Mix assets,Create in Unreal Editor 5.8
+MetaSounds,Unreal MetaSound assets,Create in Unreal Editor 5.8
+Blueprints,Blueprint assets to create in Unreal Editor 5.8,Native .uasset
+Data,Enums and Data Assets,Create in Unreal Editor 5.8
